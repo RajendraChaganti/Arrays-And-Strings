@@ -16,7 +16,7 @@ int main() {
     return 0;
 }
 /*
-Output:
+Output :
 Hello my name is Rajendra Chaganti,I am an E&TC student in SIT Pune.
 My mom's name is Nageswari.
 */
